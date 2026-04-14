@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "8X57979962.com.malviya.trot",
+        "paths": ["/join/*"]
+      }
+    ]
+  }
+}
